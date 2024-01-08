@@ -1,3 +1,5 @@
+console.log('hello world')
 
-
-const help = 1
+function sum(a, b) {
+    return a + b
+}
